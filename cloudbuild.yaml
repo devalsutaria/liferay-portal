@@ -23,6 +23,6 @@ steps:
           -Dsonar.projectName=liferay \
           -Dsonar.sources=. \
           -Dsonar.host.url=https://sonar-demo-pt.iexperts.cloud \
-          -Dsonar.login=sqp_c47b6594d2e5c46a45dcd084078f70d27b19b24d \
+          -Dsonar.login=sqp_7f3d9e7bff09ce00d9ca0c61795176306db3be3f \
           -Dsonar.log.level=DEBUG \
           -Dsonar.working.directory=/tmp/.scannerwork
